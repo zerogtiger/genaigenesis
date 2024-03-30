@@ -1,0 +1,4 @@
+trial_extension/
+.DS_Store
+.next/
+node_modules/

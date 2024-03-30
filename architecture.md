@@ -8,6 +8,7 @@ Google extension (similar to Grammarly) or standalone website/app that allows us
 1. Take substring based on sentences (all possible sentence substrings)
 1. Ask AI to summarize key facts in point form
     - link facts together (quantitative facts with dates)
+
 Bonus: Amount of opinion
 
 ## Google search
