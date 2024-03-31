@@ -1,7 +1,7 @@
 .container {
   width: 400px;
   height: 600px;
-  background: linear-gradient(153deg, rgb(252, 3, 3), rgb(222, 125, 255) 74%);
+  background: linear-gradient(153deg, rgb(252, 3, 3), rgb(0,200,200) 74%);
   padding: 5px;
   color: white;
 }
