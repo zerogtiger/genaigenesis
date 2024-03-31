@@ -1,5 +1,5 @@
 // Access your API key as an environment variable (see "Set up your API key" above)
-const genAI = new GoogleGenerativeAI("AIzaSyC6R3u8ROnjDKTCns8A3o_S5nY9tc8rH4g");
+const genAI = new GoogleGenerativeAI();
 
 // For text-only input, use the gemini-pro model
 const model = genAI.getGenerativeModel({ model: "gemini-pro"});
