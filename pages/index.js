@@ -40,7 +40,7 @@ const model = genAI.getGenerativeModel({ model: "gemini-pro"});
     // code on calling Gemini
     const prompt = "Write a story about a magic back  pack."
 
-    model.generateContent(prompt).then((value) => {console.log(value)})
+    model.generateContent(prompt).then((value) => {console.log(value.response.text())})
     // const response = await result.response;
     // const text = response.text();
     // console.log(text);
